@@ -119,6 +119,6 @@ Tamamlanan projeler, NO-GO arşivi ve performans göstergeleri kurumun bilgi bir
 
 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
-**[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
+**[tetik.dev](https://tetik.dev)** · Muhammed Ali Tetik
 
 </div>
