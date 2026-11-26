@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ TSO AI
+# TSO AI
 
 ### Kurumsal Yapay Zeka Asistanı
 
@@ -23,14 +23,14 @@ Ticaret ve Sanayi Odaları için proje yönetimi, fon fırsatları, belge analiz
 
 ---
 
-## 📖 Hakkında
+## Hakkında
 
 TSO AI Agent, Ticaret ve Sanayi Odalarının proje yönetim süreçlerini yapay zeka ile desteklemek amacıyla geliştirilen kurumsal bir platformdur. Fon ve hibe fırsatlarının analizi, başvuru uygunluğunun değerlendirilmesi, proje ortaklarının araştırılması ve belgelerdeki eksik veya tutarsız bilgilerin tespit edilmesini hedefler. Bütçe kontrolü, risk takibi, raporlama ve kurumsal bilgi yönetimini bir araya getirerek proje departmanlarının daha sistematik ve verimli çalışmasını amaçlar.
 
 > **Temel ilke:** AI analiz eder → proje uzmanı değerlendirir → yetkili onaylar → sistem kaydeder.
 > Yapay zeka hiçbir kararı tek başına vermez.
 
-## 🔄 İş akışı
+## İş akışı
 
 Bir projenin ilk ihtiyaçtan kapanışa kadar tüm yolculuğu tek ekranda izlenir:
 
@@ -40,19 +40,19 @@ Bir projenin ilk ihtiyaçtan kapanışa kadar tüm yolculuğu tek ekranda izleni
  Kurumsal hafıza ◄─ Kapanış ◄─ Uygulama ◄─ Başvuru ◄─ Ortaklıklar ◄─ Proje tasarımı
 ```
 
-## ✨ Modüller
+## Modüller
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Fon fırsatı tarama
+### Fon fırsatı tarama
 TÜBİTAK, KOSGEB, kalkınma ajansları, bakanlıklar, TOBB, Erasmus+, Horizon Europe ve Interreg gibi 12 kaynağın açık çağrıları otomatik taranır, son başvuru tarihine ve uygunluğa göre sıralanır.
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ Çağrı bilgi kartı
+### Çağrı bilgi kartı
 Çağrı rehberleri ve PDF belgeler okunur; bütçe, destek oranı, süre, kimlerin başvurabileceği gibi alanlar yapay zeka ile tek bir kartta özetlenir.
 
 </td>
@@ -60,13 +60,13 @@ TÜBİTAK, KOSGEB, kalkınma ajansları, bakanlıklar, TOBB, Erasmus+, Horizon E
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ GO / NO-GO ön değerlendirme
+### GO / NO-GO ön değerlendirme
 Her çağrı 15 kritere göre puanlanır ve gerekçesiyle birlikte GO, revizyon ya da NO-GO önerisi sunulur. Son kararı yetkili verir.
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Sohbet asistanı
+### Sohbet asistanı
 Kayıtlara bakarak soruları yanıtlayan AI agent. Yalnızca okuma yetkisiyle çalışır, kayıtta olmayan sayı veya tarih uydurmaz.
 
 </td>
@@ -74,20 +74,20 @@ Kayıtlara bakarak soruları yanıtlayan AI agent. Yalnızca okuma yetkisiyle ç
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Proje portföyü ve takvim
+### Proje portföyü ve takvim
 Portföydeki projeler, onay bekleyen karar kapıları ve yaklaşan son başvuru tarihleri ortak bir takvimde toplanır.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Kurumsal hafıza
+### Kurumsal hafıza
 Tamamlanan projeler, NO-GO arşivi ve performans göstergeleri kurumun bilgi birikimine dönüşür.
 
 </td>
 </tr>
 </table>
 
-## 🖼️ Ekran görüntüleri
+## Ekran görüntüleri
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ Tamamlanan projeler, NO-GO arşivi ve performans göstergeleri kurumun bilgi bir
 </tr>
 </table>
 
-## 🛠️ Teknik yapı
+## Teknik yapı
 
 | Katman | Kullanılan |
 |---|---|
@@ -117,7 +117,7 @@ Tamamlanan projeler, NO-GO arşivi ve performans göstergeleri kurumun bilgi bir
 
 <div align="center">
 
-🔒 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
+Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
 **[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
 
