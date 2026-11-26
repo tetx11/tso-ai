@@ -12,8 +12,8 @@ Ticaret ve Sanayi Odaları için proje yönetimi, fon fırsatları, belge analiz
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Model](https://img.shields.io/badge/model-Qwen_(yerel)-6E56CF?style=flat-square)
-![Gizlilik](https://img.shields.io/badge/veri-kurum_içinde_kalır-2E7D32?style=flat-square)
+![Model](https://img.shields.io/badge/model-Qwen_%28yerel%29-6E56CF?style=flat-square)
+![Gizlilik](https://img.shields.io/badge/veri-kurum_i%C3%A7inde_kal%C4%B1r-2E7D32?style=flat-square)
 
 <br>
 
