@@ -6,14 +6,14 @@
 
 Ticaret ve Sanayi Odaları için proje yönetimi, fon fırsatları, belge analizi ve bütçe kontrolünü yapay zeka ile destekleyen kurumsal AI agent sistemi
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](badges/python.svg)
+![FastAPI](badges/fastapi.svg)
+![Ollama](badges/ollama.svg)
+![LangGraph](badges/langgraph.svg)
+![SQLite](badges/sqlite.svg)
 
-![Model](https://img.shields.io/badge/model-Qwen_%28yerel%29-6E56CF?style=flat-square)
-![Gizlilik](https://img.shields.io/badge/veri-kurum_i%C3%A7inde_kal%C4%B1r-2E7D32?style=flat-square)
+![Model](badges/model.svg)
+![Gizlilik](badges/gizlilik.svg)
 
 <br>
 
